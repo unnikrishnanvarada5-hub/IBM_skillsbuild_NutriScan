@@ -1,4 +1,5 @@
-
 # IBM Skillsbuild NutriScan Project
 
-[![Open In Colab](https://google.com)](https://google.com)
+Click the link below to open this project directly in Google Colab:
+
+## 🚀 [Launch in Google Colab](https://google.com)
