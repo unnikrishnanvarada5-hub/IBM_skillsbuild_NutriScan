@@ -8,7 +8,7 @@ Original file is located at
 """
 
 print('📦 Installing packages...')
-!pip install -q streamlit pyngrok pillow requests
+
 print('✅ All packages installed!')
 
 # ╔══════════════════════════════════════════╗
