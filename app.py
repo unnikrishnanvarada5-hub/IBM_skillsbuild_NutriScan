@@ -233,6 +233,7 @@ print('✅ All packages installed!')
 #print("✅ App file written: nutriscan_app.py")
 
 import streamlit as st
+import base64 as _b64 
 
 # Force-inject secrets directly into the decoder to bypass caching issues
 GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
