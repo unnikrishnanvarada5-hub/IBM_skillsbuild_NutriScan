@@ -235,7 +235,7 @@ print('✅ All packages installed!')
 import streamlit as st
 
 GROQ_API_KEY = st.secrets["GROQ_API_KEY"]
-HF_KEY = st.secrets["HF_TOKEN"]
+HF_TOKEN = st.secrets["HF_TOKEN"]
 
 
 import base64 as _b64
